@@ -84,4 +84,4 @@ action("xpath",
        "send_keys('username')") #The first parameter denotes that the element we're trying to perform action on is to be identified via its xpath, second paramter provides it the unique xpath of that element, the third parameter asks it to enter the username on the element(the element is an input tag to accept the username)
 
 wait(10) # this will add a sleep function in the output python file !
-quit()
+quit()      #this will close all necessary drivers 
