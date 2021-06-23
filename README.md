@@ -8,3 +8,5 @@ The element you want to select can be (should be written in the same manner as s
 The actions one can perform on the element are : click(), send_keys([what you want to type inside the element])
 
 And don't worry if you don't know much about modular programming, The GUI will be provided soon , it will be a matter of few clicks to make a web automation flow, Just give me some time :).
+
+Also, you can change or modify the code as per your likings! It's open source :)!
