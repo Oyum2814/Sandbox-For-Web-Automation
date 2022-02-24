@@ -10,7 +10,7 @@ I tried creating a sandbox generator which literally generates the code required
 What does the programmer have to do then you ask? The programmer decides what actions are to be performed on which element(one should know about web elements at least to use this) !That's it! And trust me ! This is really easy to use. Althought the mechanism required to make it has been completed, but I'm yet to be done with the GUI for the program. The program can still be used by calling certain python functions as I've demonstrated in the end of the program!
 
 <br/><br/>
-Via This project, I want to elaborate how programmers use automation via moodules like selenium 
+Via This project, I want to elaborate how programmers use automation via modules like selenium 
 <br/>
 
 The element you want to select can be (should be written in the same manner as shown) : xpath, class_name , id
