@@ -3,7 +3,7 @@
 
 <img width="996" alt="UI" src="https://user-images.githubusercontent.com/72745185/134123023-26233b46-2173-43bb-bdb9-d68fa49d8ca9.png">
 
-<h5>Do you want to automate the manual things a person does on the internet ? Web automation is the answer for that!</h5>
+<h2>Do you want to automate the manual things a person does on the internet ? Web automation is the answer for that!</h2>
 
 
 I tried creating a sandbox generator which literally generates the code required to perform a certain automation. <br/>
